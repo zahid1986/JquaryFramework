@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: testhomepage.TestHomePage
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 3, Time elapsed: 1.465 s <<< FAILURE! - in testhomepage.TestHomePage
+setUp(testhomepage.TestHomePage)  Time elapsed: 0.886 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: /Users/zahidhasan/IdeaProjects/JquaryFramework/JquaryTdd/../Generic/BrowserDriver/windows/chromedriver.exe
+
+cleanUp(testhomepage.TestHomePage)  Time elapsed: 0.003 s  <<< FAILURE!
+java.lang.NullPointerException
+
